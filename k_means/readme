@@ -1,0 +1,4 @@
+This folder includes the py file which implement k-means algorithm and provide a test.csv
+The py file create a new csv which have an extra column shows the label of the location.
+Data visualization is included.
+The number of k is decided by the line chart and this part is in the comment.
