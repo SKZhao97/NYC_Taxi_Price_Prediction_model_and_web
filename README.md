@@ -2,7 +2,7 @@
 ## Data_Analysis_and_Visualization_Final_Project
 
 ### TITLE: Is Uber really cheaper than Taxi?
-
+    Teammates: S Zhao, H Wang, X Zhang, Y Xiao and Y ke
 ### Process:
 
 #### Data: Download from NYC Taxi & Limousine Commission https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
