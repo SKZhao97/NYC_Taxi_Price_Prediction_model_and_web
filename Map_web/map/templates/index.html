@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<title>New York City Map by 6242 Newbies</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css">
+		<link rel="icon" href="{{ url_for('static', filename='icon.jpg') }}">
+		<script type="text/javascript" src="{{ url_for('static', filename='map.js') }}"></script> 
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body>
+		<h2> 
+			<img alt="Avatar" src="{{ url_for('static', filename='images/taxi.jpeg') }}" height = "50">
+			New York Map by 6242 Newbies
+		</h2>
+
+		<nav>
+			<ul>
+				<li><a href="{{ url_for('index') }}">HOME</a></li>
+			</ul>
+		</nav>
+
+		<div id= "tips_window">
+			Click to set a point, right click to cancel
+		</div>	
+
+		<div id="info_window1"></div>
+		<div id="info_window2"></div>
+		<div id='map'></div>
+
+		<img alt = "logo" src="{{ url_for('static', filename='images/logo.png') }}" id = "icon" height="20" >
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.min.js"></script>
+		<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+		
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkS7mkZcgFipaqRCc5Ud4eh_PYbaJ4o7Y&callback=initMap&language=en-us" async defer></script>
+		<!--  ***Please change the key before run the code, which is between "key=" and "&callback"***  -->
+		
+    	</form>
+		<footer>
+        <small>&copy; 2019 CSE6242  </small>
+    	</footer>
+	</body>
+</html>
