@@ -4,7 +4,7 @@
 
 * set google map API in map/templates/map.html  
 * FLASK_ENV=development
-* FLASK_APP=map
+* FLASK_APP=map  
 $ cd Map  
 $ pipenv install --dev  
 $ pipenv shell  
