@@ -20,4 +20,4 @@ $ Running on(local) http://127.0.0.1:5000/
 * Waiting for real model... to do more modifications 
 
 ## Demo
-![Demo](https://github.com/SKZhao97/Watchlist_based_on_flask/blob/master/Demo_pic.jpg)
+![Demo](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Map_web_with_model/Structure_fig.tiff)
