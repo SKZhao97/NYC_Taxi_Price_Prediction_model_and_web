@@ -2,13 +2,15 @@
 
 ## Installation
 
-$ set google map API in map/templates/map.html
-$ cd Map
-$ pipenv install --dev
-$ pipenv shell
-$ flask initdb
-$ flask run
-$ Running on(local) http://127.0.0.1:5000/ 
+$ set google map API in map/templates/map.html    
+$ cd Map    
+$ pipenv install --dev   
+$ pipenv shell   
+$ export FLASK_ENV=development   
+$ export FLASK_APP=map
+$ flask initdb   
+$ flask run  
+$ Running on(local) http://127.0.0.1:5000/   
 
 ## Comments
 $ Flask structure set
