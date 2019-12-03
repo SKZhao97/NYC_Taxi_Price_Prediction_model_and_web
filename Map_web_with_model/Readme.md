@@ -21,3 +21,4 @@ $ Running on(local) http://127.0.0.1:5000/
 
 ## Structure
 ![Demo](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Map_web_with_model/web_structure.jpg)
+by S. Zhao @Georgia Tech
