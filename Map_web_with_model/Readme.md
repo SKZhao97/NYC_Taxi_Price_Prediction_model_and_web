@@ -18,3 +18,6 @@ $ Running on(local) http://127.0.0.1:5000/
 * Changes on javaScript to POST and GET
 * Simple model of adding the start, destination and 100 is used to test
 * Waiting for real model... to do more modifications 
+
+## Demo
+![Demo](https://github.com/SKZhao97/Watchlist_based_on_flask/blob/master/Demo_pic.jpg)
