@@ -17,7 +17,7 @@
 
 ### Demo(Interactive web)
 ![image](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Demo.gif)
-Future improvement: Login, register, more pages, more decorations, more database operations and publish
+**Future improvement**: Login, register, more pages, more decorations, more database operations and publish
 
 ### Structure
 ![Demo](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Map_web_with_model/web_structure.jpg)
