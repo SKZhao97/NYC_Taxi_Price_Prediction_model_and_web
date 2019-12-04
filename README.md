@@ -17,3 +17,5 @@
 
 ### Web Structure
 ![Demo](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Map_web_with_model/web_structure.jpg)
+
+### Demo
