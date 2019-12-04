@@ -1,7 +1,7 @@
 # New York City taxi price prediction 
 ## Data_Analysis_and_Visualization_Final_Project
 
-### TITLE: Is Uber really cheaper than Taxi?
+### TITLE: Is Lyft really cheaper than Taxi?
     Teammates: S Zhao, H Wang, X Zhang, Y Xiao and Y ke
 ### Process:
 
