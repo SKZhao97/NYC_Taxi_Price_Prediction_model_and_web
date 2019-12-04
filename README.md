@@ -22,3 +22,5 @@
 ![Demo](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Map_web_with_model/web_structure.jpg)
 ![Prediction](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Prediction_Workflow.png)
 
+### License
+This project is licensed under the MIT License (see the LICENSE file for details).
