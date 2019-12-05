@@ -3,7 +3,7 @@
 
 ### TITLE: Is Lyft really cheaper than Taxi?
     Teammates: S Zhao, H Wang, X Zhang, Y Xiao and Y ke
-    Main responsibility: Web design of Front/back end, time/data clustering and experiment, data cleaning and processing, experiment and analysis, regression model design
+    Main responsibility: Web construction of Front/back-ends, time/data clustering and experiment, data cleaning and processing, experiment and analysis, regression model design
 ### Process:
 
 1. **Data**: Download from NYC Taxi & Limousine Commission https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
