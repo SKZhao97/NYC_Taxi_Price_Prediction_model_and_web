@@ -1,0 +1,17 @@
+5.611601080655981733e+00,3.245664811528870430e+00,3.222489492562848667e+00,3.256059335851192671e+00
+2.561377293201777050e+01,9.898754007918872944e+00,9.800005794248212609e+00,9.819334407018418531e+00
+
+    params = {
+        'boosting_type': 'gbdt',
+        'objective': 'regression',
+        'metric': {'l2', 'l1'},
+        'num_leaves': 100,
+        'max_depth': 15,
+        'learning_rate': learning_rate_list[i],
+        'feature_fraction': 0.9,
+        'bagging_fraction': 0.8,
+        'bagging_freq': 5,
+        'verbose': 0
+    }
+    1000
+    
