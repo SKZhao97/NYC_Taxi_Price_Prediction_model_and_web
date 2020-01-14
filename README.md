@@ -16,6 +16,8 @@
 8. **Web**: Based on Flask structure, use Google Map APIs to get position information such as latitude, longtitude, trip distance, trip duration; use jQuery to implement the data transfer between frontend and backend; use D3.js to load NYC open data taxi zone json file to transfer coordinate to location id.
 9. **Document**: Poster design $ report compile
 
+### Run
+
 ### Demo(Interactive web)
 ![image](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Demo.gif)
 **Future improvement**: Login, register, more pages, more decorations, more database operations and publish
