@@ -4,7 +4,7 @@
 ### TITLE: Is Lyft really cheaper than Taxi?
     Teammates: S Zhao, H Wang, X Zhang, Y Xiao and Y ke
     Main responsibility: Web construction of Front/back-ends; time/data clustering and experiment; data cleaning and processing; experiment and analysis; regression model design
-### Process:
+### Process and features:
 
 1. **Data**: Download from NYC Taxi & Limousine Commission https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. **Data Processing and Refining**: Use Spark on Databricks (coding in Scala) https://community.cloud.databricks.com/login.html
