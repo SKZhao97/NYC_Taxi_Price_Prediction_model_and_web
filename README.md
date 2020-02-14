@@ -13,7 +13,7 @@
 5. **Model training**: Microsoft lightGBM framework, regression module
 6. **Model test and evaluation**: Cross validation, Morte Carlo Simulation, TP/TN/FP/FN (expected)
 7. **Visulization**: Draw bar chart, line chart and heatmap to show the comparation between Lyft and Taxi in NYC based on D3.js and Tableau
-8. **Web**: Based on Flask structure, use Google Map APIs to get position information such as latitude, longtitude, trip distance, trip duration; use jQuery to implement the data transfer between frontend and backend; use D3.js to load NYC open data taxi zone json file to transfer coordinate to location id.
+8. **Web**: Based on Flask structure, use Google Map APIs to get position information such as latitude, longtitude, trip distance, trip duration; use jQuery to implement the data transfer between frontend and backend; use D3.js to load NYC open data taxi zone json file to transfer coordinate to location id. Uber API price
 9. **Document**: Poster design $ report compile
 
 ### Run 
