@@ -25,7 +25,7 @@ $ export FLASK_ENV=development
 $ export FLASK_APP=map   
 $ flask initdb  
 $ flask run  
-$ Running on(local) http://127.0.0.1:5000/  
+$ Running on(local)http://127.0.0.1:5000/  
 
 ### Demo(Interactive web)
 ![image](https://github.com/SKZhao97/NYC_Taxi_Price_Prediction/blob/master/Demo.gif)
