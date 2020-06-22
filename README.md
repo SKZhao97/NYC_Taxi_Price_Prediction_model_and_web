@@ -1,5 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
 ![Framework](https://img.shields.io/badge/Framework-Flask-brightgreen)
+![Framework](https://img.shields.io/badge/API-Google-red)
 # New York City taxi price prediction 
 ## Data_Analysis_and_Visualization_Final_Project
 
